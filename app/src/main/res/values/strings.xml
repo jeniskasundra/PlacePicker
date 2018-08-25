@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlacePicker</string>
+    <string name="place_name">Place Name</string>
+    <string name="enter_place_name">Enter Place Name</string>
+    <string name="place_addres">Place Addres</string>
+    <string name="enter_place_addres">Enter place addres</string>
+    <string name="save">Save</string>
+    <string name="place_type">Place Type</string>
+</resources>
